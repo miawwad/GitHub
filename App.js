@@ -1,6 +1,12 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
 
+function Details(){
+  return(
+    <Text>Hi Mohammad, this is Ayham</Text>
+  )
+}
+
 function Header(){
   return(
     <Text>This is a Header</Text>
